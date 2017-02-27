@@ -1,0 +1,3 @@
+# Seeed Studio Respeaker Far Field Mic Array
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="2886", ATTRS{idProduct}=="0007", GROUP:="ubuntu"
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="2886", ATTRS{idProduct}=="0007", GROUP:="nvidia"

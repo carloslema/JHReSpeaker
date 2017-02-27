@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/record.png</file>
+        <file>images/settings.png</file>
+        <file>images/16px-Button_Icon_Green.svg.png</file>
+        <file>images/16px-Button_Icon_Orange.svg.png</file>
+        <file>images/16px-Button_Icon_Red.svg.png</file>
+        <file>images/16px-Button_Icon_Yellow.svg.png</file>
+        <file>images/32px-Button_Icon_Green.svg.png</file>
+        <file>images/32px-Button_Icon_Orange.svg.png</file>
+        <file>images/32px-Button_Icon_Red.svg.png</file>
+        <file>images/32px-Button_Icon_Yellow.svg.png</file>
+        <file>images/64px-Button_Icon_Green.svg.png</file>
+        <file>images/64px-Button_Icon_Orange.svg.png</file>
+        <file>images/64px-Button_Icon_Red.svg.png</file>
+        <file>images/64px-Button_Icon_Yellow.svg.png</file>
+        <file>images/128px-Button_Icon_Green.svg.png</file>
+        <file>images/128px-Button_Icon_Orange.svg.png</file>
+        <file>images/128px-Button_Icon_Red.svg.png</file>
+        <file>images/128px-Button_Icon_Yellow.svg.png</file>
+        <file>images/256px-Button_Icon_Green.svg.png</file>
+        <file>images/256px-Button_Icon_Orange.svg.png</file>
+        <file>images/256px-Button_Icon_Red.svg.png</file>
+    </qresource>
+</RCC>
